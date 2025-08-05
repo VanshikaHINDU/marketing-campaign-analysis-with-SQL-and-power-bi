@@ -4,7 +4,7 @@ This project analyzes the performance of marketing campaigns using customer data
 
 ## 📁 Files Included
 
-- `cleaned_data.xlsx`: Cleaned dataset used for analysis
+- `customer marketing`: Cleaned dataset used for analysis
 
 ## 📌 Next Steps
 
